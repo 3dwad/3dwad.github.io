@@ -180,6 +180,6 @@ Module['FS_createPath']('/HouseTest/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 91, "crunched": 0, "end": 15356102, "filename": "/HouseTest/Content/Paks/HouseTest-HTML5.pak"}], "remote_package_size": 15356102, "package_uuid": "e4726988-5078-4169-afd8-5144a275fc79"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 91, "crunched": 0, "end": 15717895, "filename": "/HouseTest/Content/Paks/HouseTest-HTML5.pak"}], "remote_package_size": 15717895, "package_uuid": "1180abb7-862b-4a7c-a961-61eea0fa8c73"});
 
 })();
