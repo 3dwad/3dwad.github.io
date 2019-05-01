@@ -173,6 +173,6 @@ Module['FS_createPath']('/DemoPlanirovka/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 101, "filename": "/UE4CommandLine.txt"}, {"start": 101, "audio": 0, "end": 18992578, "filename": "/DemoPlanirovka/Content/Paks/DemoPlanirovka-HTML5.pak"}], "remote_package_size": 18992578, "package_uuid": "aa9e4bdc-5fc0-4270-91ef-5df1a8357c77"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 101, "filename": "/UE4CommandLine.txt"}, {"start": 101, "audio": 0, "end": 18992568, "filename": "/DemoPlanirovka/Content/Paks/DemoPlanirovka-HTML5.pak"}], "remote_package_size": 18992568, "package_uuid": "000d7014-2342-4fa3-b5f6-fdca31e1431c"});
 
 })();
